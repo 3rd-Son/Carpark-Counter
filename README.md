@@ -16,9 +16,9 @@ The car count and available spaces are shown in real-time on the screen.
 
 ## Contact
 
-- Twitter: [Your Twitter Handle](https://twitter.com/SaxVictory)
+- Twitter: [3rdSon](https://twitter.com/3rdSon__)
 - Email: nnajivictorious@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/victory-nnaji-8186231b7/)
+- LinkedIn: [Victory Nnaji](https://www.linkedin.com/in/victory-nnaji-8186231b7/)
 
 ## License
 
